@@ -1,4 +1,0 @@
-function saluda() {
-        Hola bienvenido;
-        
-      }
